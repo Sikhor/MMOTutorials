@@ -72,13 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# Folders that can be downloaded somewhere
-
-Content/Collections/*
-Content/Developers/*
-Content/Geometry/*
-Content/Mannequin/*
-Content/StarterContent/*
-Content/ThirdPerson/*
-Content/ThirdPersonBP/*
