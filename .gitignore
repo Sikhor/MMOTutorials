@@ -73,6 +73,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Dont need .bak files from notepad
+*.bak
 
 # Play client Bat Template
 playclient.bat
@@ -80,10 +82,22 @@ playclient.bat
 # Folders that can be downloaded somewhere
 
 Content/Collections/*
+Content/CreekAssets/*
 Content/Developers/*
 Content/Geometry/*
+Content/Megascans_4k/*
 Content/Mannequin/*
 Content/StarterContent/*
 Content/ThirdPerson/*
 Content/ThirdPersonBP/*
-*.bak
+Content/InfinityBladeEffects/*
+Content/ParagonBoris/*
+Content/ParagonKallari/*
+Content/ParagonLtBelica/*
+Content/ParagonRampage/*
+Content/Kraken/*
+Content/ScifiEnergyTower/*
+Content/Huge_Monster_Sounds_Pack/*
+Content/SciFiSoundsAudioPack/*
+Content/Sensei/*
+Content/SoulCity/*
