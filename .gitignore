@@ -73,6 +73,10 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+
+# Play client Bat Template
+playclient.bat
+
 # Folders that can be downloaded somewhere
 
 Content/Collections/*
